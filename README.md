@@ -12,8 +12,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ---
 
-- **Solution URL:** https://github.com/suhaibadill/blog-preview-card?tab=readme-ov-file
-
 - **Live Site URL:** https://suhaibadill.github.io/blog-preview-card/
 
 ---
