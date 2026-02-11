@@ -19,7 +19,8 @@ body {
 
 .card-container {
   background-color: #ffffff;
-  width: 384px;
+  width: 90%;
+  max-width: 384px;
   display: flex;
   flex-direction: column;
   align-content: center;
@@ -55,19 +56,19 @@ body {
 }
 
 .published-date {
-  font-size: 14px;
+  font-size: clamp(12px, 3vw, 14px);
   line-height: 150%;
   font-weight: 500;
 }
 
 .card-title {
   font-weight: 800;
-  font-size: 24px;
+  font-size: clamp(20px, 5vw, 24px);
   line-height: 150%;
 }
 
 .card-discreption {
-  font-size: 16px;
+  font-size: clamp(14px, 4vw, 16px);
   line-height: 150%;
   font-weight: 500;
   color: #6b6b6b;
