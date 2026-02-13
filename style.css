@@ -14,7 +14,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 50px 5px 5px #121212;
 }
 
 .card-container {
@@ -28,6 +27,7 @@ body {
   padding: 24px;
   border-radius: 20px;
   box-shadow: 8px 8px 0px 0px #000000;
+  border: 1px solid #000;
   gap: 24px;
 }
 
