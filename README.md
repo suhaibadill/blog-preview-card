@@ -37,13 +37,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ---
 
-## 🤖 AI Collaboration
-
-- Used **Gemini (AI)** to understand fluid typography and debug Git conflicts.
-- Refined the CSS layout and learned best practices for responsive components.
-
----
-
 ## 👤 Author
 
 - Frontend Mentor: [https://www.frontendmentor.io/profile/suhaibadill](https://www.frontendmentor.io/profile/suhaibadill)
